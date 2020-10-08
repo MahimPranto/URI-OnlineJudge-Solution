@@ -22,5 +22,6 @@ int main()
     }   
     
     cout<<ci<<" in\n"<<co<<" out\n";
+   
     return 0;
 }

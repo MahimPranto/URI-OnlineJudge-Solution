@@ -20,5 +20,6 @@ int main()
         cout<<"Intervalo (75,100]"<<endl;
     else
         cout<<"Fora de intervalo"<<endl;
+    
     return 0;
 }

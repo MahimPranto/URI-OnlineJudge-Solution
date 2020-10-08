@@ -58,5 +58,6 @@ int main()
         
             
     cout<<p<<" valor(es) par(es)\n"<<o<<" valor(es) impar(es)\n"<<ps<<" valor(es) positivo(s)\n"<<ng<<" valor(es) negativo(s)\n";
+    
     return 0;
 }

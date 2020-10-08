@@ -14,7 +14,6 @@ int main()
     square=B*B;
     rec=A*B;
     
-
     cout<<"TRIANGULO: "<<fixed<<setprecision(3)<<triangle<<endl;
     cout<<"CIRCULO: "<<fixed<<setprecision(3)<<circle<<endl;
     cout<<"TRAPEZIO: "<<fixed<<setprecision(3)<<trapezium <<endl;

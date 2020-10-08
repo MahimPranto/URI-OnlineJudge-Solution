@@ -14,8 +14,6 @@ int main()
     
     total=(b*c)+(e*f);
     
-    
-
     cout<<"VALOR A PAGAR: R$ "<<fixed<<setprecision(2)<<total<<endl;
 
     return 0;

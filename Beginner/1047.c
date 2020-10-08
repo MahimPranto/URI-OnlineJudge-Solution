@@ -15,5 +15,6 @@ if (hm == h && mm==m)
  printf("O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)\n");
  else
  printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n", hr,mr);
+ 
  return 0;
 }

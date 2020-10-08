@@ -2,8 +2,7 @@
 
 using namespace std;
 
-int
-main ()
+int main ()
 {
   int A, B, C, D,DIFERENCA=0;
     cin >> A >> B >> C>>D;

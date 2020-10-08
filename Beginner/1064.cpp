@@ -20,5 +20,6 @@ int main()
     cout << c << " valores positivos" << endl;
     cout << setprecision(1) << fixed << avg/c << endl;
 
+    
     return 0;
 }

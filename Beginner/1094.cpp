@@ -33,5 +33,6 @@ int main(int argc, const char * argv[])
 	cout << "Percentual de ratos: " << fixed << (R*100)/(double)total << " %" << endl;
 	cout << "Percentual de sapos: " << fixed << (S*100)/(double)total << " %" << endl;
  	      
-    return 0;
+    
+	return 0;
 }

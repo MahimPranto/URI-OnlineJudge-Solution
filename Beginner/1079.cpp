@@ -17,5 +17,5 @@ int main()
         cout<<fixed<<setprecision(1)<<avg<<endl;
     }
     
- return 0;
+return 0;
 }

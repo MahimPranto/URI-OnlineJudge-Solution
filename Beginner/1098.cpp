@@ -9,5 +9,6 @@ int main()
           cout<<"I="<<i<<" J="<<j+i<<endl;
       }
     }
+    
     return 0;
 }

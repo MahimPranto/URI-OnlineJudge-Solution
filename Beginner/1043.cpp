@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 int main()
 {
     float A,B,C,area,p;

@@ -12,8 +12,6 @@ int main()
         
         I+=3;
         
-    }
-    
-    
+    }  
  return 0;
 }

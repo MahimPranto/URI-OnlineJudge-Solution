@@ -35,7 +35,6 @@ int main()
         cout<<"Aluno reprovado.\n"<<"Media final: "<<fixed<<setprecision(1)<<avg2<<endl;
         
         
-    
     }
     return 0;
 }
